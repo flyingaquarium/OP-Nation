@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Angry Polandball",
+    "production": 5,
+    "food": 6,
+    "gold": 5,
+    "science": 9,
+    "culture": 4,
+    "happiness": 5,
+    "faith": 1,
+    "military": 9,
+    "aggressive": 20,
+    "declareWar": 0,
+    "commerce": 4,
+    "diplomacy": 7,
+    "loyal": 5,
+    "expansion": 12,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 2,
+      "Honor": 5,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 0,
+      "Rationalism": 10,
+      "Freedom": 9,
+      "Autocracy": 0, //polandball hate reichball
+      "Order": 3
+    }
+  }
+]

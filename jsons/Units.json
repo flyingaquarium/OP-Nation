@@ -1,1 +1,11 @@
-
+[
+  {
+		"name": "Polandball",
+		"unitType": "Greatball",
+		"uniqueTo": "OP Polaska",
+		"movement": 6,
+    "uniques": ["Can move after attacking","Never appears as a Barbarian unit","[5] additional attacks per turn"],
+		"strength": 320,
+		"cost": 1
+	}
+]
